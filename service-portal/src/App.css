@@ -1,0 +1,33 @@
+/*.App {
+  text-align: center;
+}*/
+
+
+.App-header {
+  background: url("https://wallpapercave.com/wp/wp2587231.jpg");
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.home,
+.profile,
+.history {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.imgStyle{
+  display: flex;
+  width: 200px;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}

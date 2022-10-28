@@ -1,8 +1,5 @@
 # ServiceTransactionPortal
 
-Demonstration : https://www.youtube.com/watch?v=oNBS6aw6fTc            
-Website : http://sestp.herokuapp.com              
-
 
 The present web application is an interface between professionals and customers.                  
 The customer can put the post describing the work to be done in the application which is visible to the professional and contact them.            
